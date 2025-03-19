@@ -13,9 +13,6 @@
     "test": "vitest run --no-threads"
   },
   "license": "MIT",
-  "peerDependencies": {
-    "semantic-release": ">=22.0.7"
-  },
   "dependencies": {
     "debug": "^4.3.4",
     "execa": "^5.1.1",
